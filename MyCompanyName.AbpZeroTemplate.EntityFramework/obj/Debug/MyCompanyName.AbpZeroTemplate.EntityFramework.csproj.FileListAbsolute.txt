@@ -1,0 +1,368 @@
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.dll.config
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.pdb
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.AutoMapper.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.Common.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Common.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.EntityFramework.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\AutoMapper.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Windsor.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.DynamicFilters.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\JetBrains.Annotations.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Ldap.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.pdb
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.AutoMapper.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.Common.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Common.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.EntityFramework.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\AutoMapper.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Core.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Windsor.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\JetBrains.Annotations.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Ldap.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.InitialCreate.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_IsStatic_To_Role.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.ModuleZero_Upgrade_For_ISuspendable.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Converted_IsSuspended_To_IsActive.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Tenant_Property_Annotations.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Tenant_Changed_To_FullAuditedEntity_From_AuditedEntity.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ShouldChangePasswordOnNextLogin_To_AbpUser.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_AuditLog_To_AbpZero.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Tenancy_Filters_To_Abp_Zero.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.User_AndAuditLog_Data_Size_Changes.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.AbpZero_Role_SoftDelete.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_StoredFile_Entity.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Renamed_StoredFile_To_BinaryObject.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.UserLogin_Property_Restrictions.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_Module_Zero_Tables.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Renamed_BinaryObject_Table.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_AuthenticationSource_To_User.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.AuditLog_Made_MayHaveTenant.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.ModuleZeroUpgrade_0_6_9.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Edition_And_Features.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ApplicationLanguage_Entity.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ApplicationLanguageText.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Removed_IsActive_From_ApplicationLanguage.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Renamed_ApplicationLanguageTexts_Table.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_OrganizationUnit_Entities.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Implemented_IMayHaveTenantId_For_UserOrganizationUnit.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_OrganizationUnit_Tables.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_Language_Tables.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_Edition_Tables.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgraded_To_Module_Zero_0_7_7.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_BackgroundJobs_And_Notifications.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Index_For_UserNotifications.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.ABP_Notification_Revisions.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_LinkUserId_To_AbpUser.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.AccountLink_Notifcation_Merge.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ExcludedUsers_To_NotificationInfo.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Removed_MayHaveTenant_Filter_From_NotificationSubscription.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Abp_And_Module_Zero_0_8_1.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Module_Zero_0_8_3.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Module_Zero_0_8_4.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Works_For_DbPerTenant.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.New_TenantId_Columns.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ConnString_To_Tenant_Entity.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Notification_And_Setting_Changes_For_DbPerTenant.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.LinkedAccounts_Changes_For_DbPerTenant.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Remove_UserLinkId_From_Users.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_LastLoginTime_To_UserAccounts.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Revised_Notification_Entities.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_TenantId_To_BinaryObject.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Chat_And_Friendship_Entities.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Make_FriendShip_And_Chat_TenantId_Nullable.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_FriendUserName_To_Friendship_Table.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_TenancyName_And_ProfilePictureId_To_AppFriendships_Table.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_MayHaveTenant_Annotation_To_ChatMessage_And_Friendship.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Validation_To_Chat_Entities.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Module_Zero_0_11_2.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_Foreign_Keys_To_Abp_Tables.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Module_Zero_v1_Improvements.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Abp_And_Module_Zero_1_1.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Tenant_UI_Customization_Properties.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Update_ABP_Migrations.resources
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.csproj.GenerateResource.Cache
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.dll.config
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.AutoMapper.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.Common.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Common.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.EntityFramework.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\AutoMapper.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Windsor.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.DynamicFilters.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\JetBrains.Annotations.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Ldap.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.AutoMapper.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.Common.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Common.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.EntityFramework.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\AutoMapper.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Core.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Windsor.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\JetBrains.Annotations.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Ldap.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.InitialCreate.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_IsStatic_To_Role.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.ModuleZero_Upgrade_For_ISuspendable.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Converted_IsSuspended_To_IsActive.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Tenant_Property_Annotations.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Tenant_Changed_To_FullAuditedEntity_From_AuditedEntity.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ShouldChangePasswordOnNextLogin_To_AbpUser.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_AuditLog_To_AbpZero.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Tenancy_Filters_To_Abp_Zero.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.User_AndAuditLog_Data_Size_Changes.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.AbpZero_Role_SoftDelete.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_StoredFile_Entity.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Renamed_StoredFile_To_BinaryObject.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.UserLogin_Property_Restrictions.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_Module_Zero_Tables.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Renamed_BinaryObject_Table.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_AuthenticationSource_To_User.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.AuditLog_Made_MayHaveTenant.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.ModuleZeroUpgrade_0_6_9.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Edition_And_Features.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ApplicationLanguage_Entity.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ApplicationLanguageText.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Removed_IsActive_From_ApplicationLanguage.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Renamed_ApplicationLanguageTexts_Table.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_OrganizationUnit_Entities.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Implemented_IMayHaveTenantId_For_UserOrganizationUnit.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_OrganizationUnit_Tables.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_Language_Tables.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_Edition_Tables.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgraded_To_Module_Zero_0_7_7.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_BackgroundJobs_And_Notifications.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Index_For_UserNotifications.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.ABP_Notification_Revisions.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_LinkUserId_To_AbpUser.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.AccountLink_Notifcation_Merge.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ExcludedUsers_To_NotificationInfo.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Removed_MayHaveTenant_Filter_From_NotificationSubscription.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Abp_And_Module_Zero_0_8_1.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Module_Zero_0_8_3.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Module_Zero_0_8_4.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Works_For_DbPerTenant.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.New_TenantId_Columns.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ConnString_To_Tenant_Entity.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Notification_And_Setting_Changes_For_DbPerTenant.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.LinkedAccounts_Changes_For_DbPerTenant.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Remove_UserLinkId_From_Users.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_LastLoginTime_To_UserAccounts.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Revised_Notification_Entities.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_TenantId_To_BinaryObject.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Chat_And_Friendship_Entities.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Make_FriendShip_And_Chat_TenantId_Nullable.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_FriendUserName_To_Friendship_Table.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_TenancyName_And_ProfilePictureId_To_AppFriendships_Table.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_MayHaveTenant_Annotation_To_ChatMessage_And_Friendship.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Validation_To_Chat_Entities.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Module_Zero_0_11_2.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_Foreign_Keys_To_Abp_Tables.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Module_Zero_v1_Improvements.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Abp_And_Module_Zero_1_1.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Tenant_UI_Customization_Properties.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Update_ABP_Migrations.resources
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.csproj.GenerateResource.Cache
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_Ta_PhotoCategory_Entity.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.dll.config
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.AutoMapper.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.Common.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Common.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.EntityFramework.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\AutoMapper.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Facilities.Logging.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Windsor.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\JetBrains.Annotations.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Newtonsoft.Json.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Collections.Immutable.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Linq.Dynamic.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Ldap.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.AutoMapper.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.EntityFramework.Common.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Common.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.EntityFramework.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\AutoMapper.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Core.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Facilities.Logging.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Castle.Windsor.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\JetBrains.Annotations.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Newtonsoft.Json.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Collections.Immutable.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\bin\Debug\Abp.Zero.Ldap.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.csprojResolveAssemblyReference.cache
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.InitialCreate.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_IsStatic_To_Role.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.ModuleZero_Upgrade_For_ISuspendable.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Converted_IsSuspended_To_IsActive.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Tenant_Property_Annotations.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Tenant_Changed_To_FullAuditedEntity_From_AuditedEntity.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ShouldChangePasswordOnNextLogin_To_AbpUser.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_AuditLog_To_AbpZero.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Tenancy_Filters_To_Abp_Zero.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.User_AndAuditLog_Data_Size_Changes.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.AbpZero_Role_SoftDelete.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_StoredFile_Entity.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Renamed_StoredFile_To_BinaryObject.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.UserLogin_Property_Restrictions.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_Module_Zero_Tables.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Renamed_BinaryObject_Table.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_AuthenticationSource_To_User.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.AuditLog_Made_MayHaveTenant.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.ModuleZeroUpgrade_0_6_9.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Edition_And_Features.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ApplicationLanguage_Entity.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ApplicationLanguageText.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Removed_IsActive_From_ApplicationLanguage.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Renamed_ApplicationLanguageTexts_Table.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_OrganizationUnit_Entities.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Implemented_IMayHaveTenantId_For_UserOrganizationUnit.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_OrganizationUnit_Tables.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_Language_Tables.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Create_Indexes_For_Edition_Tables.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgraded_To_Module_Zero_0_7_7.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_BackgroundJobs_And_Notifications.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Index_For_UserNotifications.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.ABP_Notification_Revisions.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_LinkUserId_To_AbpUser.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.AccountLink_Notifcation_Merge.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ExcludedUsers_To_NotificationInfo.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Removed_MayHaveTenant_Filter_From_NotificationSubscription.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Abp_And_Module_Zero_0_8_1.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Module_Zero_0_8_3.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Module_Zero_0_8_4.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Works_For_DbPerTenant.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.New_TenantId_Columns.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_ConnString_To_Tenant_Entity.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Notification_And_Setting_Changes_For_DbPerTenant.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.LinkedAccounts_Changes_For_DbPerTenant.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Remove_UserLinkId_From_Users.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_LastLoginTime_To_UserAccounts.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Revised_Notification_Entities.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_TenantId_To_BinaryObject.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Chat_And_Friendship_Entities.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Make_FriendShip_And_Chat_TenantId_Nullable.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_FriendUserName_To_Friendship_Table.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_TenancyName_And_ProfilePictureId_To_AppFriendships_Table.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_MayHaveTenant_Annotation_To_ChatMessage_And_Friendship.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Validation_To_Chat_Entities.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Module_Zero_0_11_2.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_Foreign_Keys_To_Abp_Tables.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Module_Zero_v1_Improvements.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Upgrated_To_Abp_And_Module_Zero_1_1.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Added_Tenant_UI_Customization_Properties.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Update_ABP_Migrations.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.Migrations.Add_Ta_PhotoCategory_Entity.resources
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.csproj.GenerateResource.Cache
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.EntityFramework\obj\Debug\MyCompanyName.AbpZeroTemplate.EntityFramework.pdb

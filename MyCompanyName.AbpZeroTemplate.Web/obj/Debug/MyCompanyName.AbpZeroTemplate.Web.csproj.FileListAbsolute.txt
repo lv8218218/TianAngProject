@@ -1,0 +1,540 @@
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Web.dll.config
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Web.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Web.pdb
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.AutoMapper.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Castle.Log4Net.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.Common.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.HangFire.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Owin.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.RedisCache.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Api.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Common.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Mvc.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.SignalR.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Common.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.EntityFramework.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Ldap.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Owin.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Antlr3.Runtime.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\AutoMapper.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Facilities.Logging.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Windsor.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.DynamicFilters.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.SqlServer.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\JetBrains.Annotations.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\log4net.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.FileSystems.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.WsFederation.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.StaticFiles.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Application.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.EntityFramework.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.WebApi.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Newtonsoft.Json.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Concurrent.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Enlightenment.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Owin.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Recaptcha.Web.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\StackExchange.Redis.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.AppContext.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Collections.Immutable.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Collections.NonGeneric.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Console.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Diagnostics.Process.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Diagnostics.StackTrace.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Diagnostics.TraceSource.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.IO.FileSystem.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Linq.Dynamic.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Linq.Dynamic.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.NameResolution.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.Sockets.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Reflection.TypeExtensions.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Threading.Thread.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Helpers.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Mvc.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Optimization.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Razor.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Xml.ReaderWriter.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Xml.XmlDocument.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\WebGrease.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\EPPlus.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Swashbuckle.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.Owin.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Application.pdb
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Core.pdb
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.EntityFramework.pdb
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.WebApi.pdb
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.AutoMapper.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Castle.Log4Net.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.Common.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.HangFire.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Owin.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.RedisCache.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Api.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Common.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Mvc.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.SignalR.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Common.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.EntityFramework.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Ldap.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Owin.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Antlr3.Runtime.pdb
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\AutoMapper.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Core.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Facilities.Logging.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Windsor.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.Core.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.SqlServer.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\JetBrains.Annotations.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\log4net.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.FileSystems.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.WsFederation.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.StaticFiles.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Newtonsoft.Json.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Concurrent.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Enlightenment.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\StackExchange.Redis.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Collections.Immutable.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Linq.Dynamic.Core.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Helpers.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Mvc.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Optimization.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Razor.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\EPPlus.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.Owin.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\es\Hangfire.Core.resources.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\bin\zh\Hangfire.Core.resources.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\obj\Debug\MyCompanyName.AbpZeroTemplate.Web.csprojResolveAssemblyReference.cache
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\obj\Debug\MyCompanyName.AbpZeroTemplate.Web.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Web\obj\Debug\MyCompanyName.AbpZeroTemplate.Web.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Web.dll.config
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Web.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Web.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.AutoMapper.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Castle.Log4Net.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.Common.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.HangFire.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Owin.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.RedisCache.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Api.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Common.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Mvc.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.SignalR.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Common.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.EntityFramework.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Ldap.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Owin.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Antlr3.Runtime.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\AutoMapper.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Facilities.Logging.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Windsor.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.DynamicFilters.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.SqlServer.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\JetBrains.Annotations.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\log4net.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.FileSystems.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.WsFederation.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.StaticFiles.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Application.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.EntityFramework.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.WebApi.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Newtonsoft.Json.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Concurrent.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Enlightenment.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Owin.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Recaptcha.Web.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\StackExchange.Redis.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.AppContext.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Collections.Immutable.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Collections.NonGeneric.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Console.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Diagnostics.Process.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Diagnostics.StackTrace.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Diagnostics.TraceSource.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.IO.FileSystem.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Linq.Dynamic.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Linq.Dynamic.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.NameResolution.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.Sockets.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Reflection.TypeExtensions.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Threading.Thread.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Helpers.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Mvc.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Optimization.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Razor.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Xml.ReaderWriter.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Xml.XmlDocument.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\WebGrease.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EPPlus.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Swashbuckle.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.Owin.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Application.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Core.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.EntityFramework.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.WebApi.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.AutoMapper.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Castle.Log4Net.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.Common.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.HangFire.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Owin.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.RedisCache.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Api.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Common.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Mvc.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.SignalR.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Common.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.EntityFramework.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Ldap.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Owin.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Antlr3.Runtime.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\AutoMapper.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Core.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Facilities.Logging.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Windsor.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.Core.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.SqlServer.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\JetBrains.Annotations.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\log4net.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.FileSystems.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.WsFederation.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.StaticFiles.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Newtonsoft.Json.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Concurrent.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Enlightenment.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\StackExchange.Redis.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Collections.Immutable.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Linq.Dynamic.Core.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Helpers.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Mvc.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Optimization.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Razor.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EPPlus.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.Owin.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\es\Hangfire.Core.resources.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\zh\Hangfire.Core.resources.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\obj\Debug\MyCompanyName.AbpZeroTemplate.Web.csprojResolveAssemblyReference.cache
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\obj\Debug\MyCompanyName.AbpZeroTemplate.Web.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\obj\Debug\MyCompanyName.AbpZeroTemplate.Web.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Web.dll.config
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Web.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Web.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.AutoMapper.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Castle.Log4Net.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.Common.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.HangFire.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Owin.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.RedisCache.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Api.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Common.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Mvc.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.SignalR.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Common.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.EntityFramework.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Ldap.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Owin.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Antlr3.Runtime.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\AutoMapper.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Facilities.Logging.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Windsor.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.DynamicFilters.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.SqlServer.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.SqlServer.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\JetBrains.Annotations.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\log4net.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.FileSystems.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.WsFederation.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.StaticFiles.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Application.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.EntityFramework.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.WebApi.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Newtonsoft.Json.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Concurrent.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Enlightenment.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Owin.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Recaptcha.Web.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\StackExchange.Redis.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.AppContext.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Collections.Immutable.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Collections.NonGeneric.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Console.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Diagnostics.Process.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Diagnostics.StackTrace.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Diagnostics.TraceSource.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.IO.FileSystem.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.IO.FileSystem.Primitives.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.IO.FileSystem.Watcher.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Linq.Dynamic.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Linq.Dynamic.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.Http.Formatting.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.NameResolution.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.Sockets.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Reflection.TypeExtensions.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Runtime.Serialization.Formatters.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Runtime.Serialization.Primitives.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Threading.Thread.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Helpers.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.WebHost.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Mvc.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Optimization.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Razor.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Deployment.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Razor.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Xml.ReaderWriter.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Xml.XmlDocument.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\WebGrease.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\ICSharpCode.SharpZipLib.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EPPlus.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Swashbuckle.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.Owin.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Application.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.Core.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.EntityFramework.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\MyCompanyName.AbpZeroTemplate.WebApi.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.AutoMapper.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Castle.Log4Net.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.EntityFramework.Common.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.HangFire.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Owin.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.RedisCache.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Api.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Common.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.Mvc.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Web.SignalR.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Common.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.EntityFramework.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Ldap.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Abp.Zero.Owin.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Antlr3.Runtime.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\AutoMapper.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Core.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Facilities.Logging.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Castle.Windsor.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EntityFramework.SqlServer.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.Core.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Hangfire.SqlServer.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\JetBrains.Annotations.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\log4net.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.FileSystems.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.Security.WsFederation.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Owin.StaticFiles.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Newtonsoft.Json.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Concurrent.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\Nito.AsyncEx.Enlightenment.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\StackExchange.Redis.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Collections.Immutable.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Linq.Dynamic.Core.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Net.Http.Formatting.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Helpers.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.WebHost.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Mvc.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Optimization.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Razor.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Deployment.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.WebPages.Razor.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\EPPlus.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\System.Web.Http.Owin.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\es\Hangfire.Core.resources.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\bin\zh\Hangfire.Core.resources.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\obj\Debug\MyCompanyName.AbpZeroTemplate.Web.csprojResolveAssemblyReference.cache
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\obj\Debug\MyCompanyName.AbpZeroTemplate.Web.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Web\obj\Debug\MyCompanyName.AbpZeroTemplate.Web.pdb

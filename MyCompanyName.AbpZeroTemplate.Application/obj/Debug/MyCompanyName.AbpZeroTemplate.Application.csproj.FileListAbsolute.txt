@@ -1,0 +1,168 @@
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Application.dll.config
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Application.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Application.pdb
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.AutoMapper.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Common.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Ldap.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\AutoMapper.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Windsor.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EPPlus.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\JetBrains.Annotations.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.pdb
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.AutoMapper.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Common.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Ldap.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\AutoMapper.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Core.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Windsor.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EPPlus.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\JetBrains.Annotations.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\obj\Debug\MyCompanyName.AbpZeroTemplate.Application.csprojResolveAssemblyReference.cache
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\obj\Debug\MyCompanyName.AbpZeroTemplate.Application.dll
+C:\Users\lv\Desktop\aspnet-zero-4.1.0\src\MyCompanyName.AbpZeroTemplate.Application\obj\Debug\MyCompanyName.AbpZeroTemplate.Application.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Application.dll.config
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Application.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Application.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.AutoMapper.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Common.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Ldap.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\AutoMapper.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Windsor.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EPPlus.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\JetBrains.Annotations.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.pdb
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.AutoMapper.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Common.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Ldap.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\AutoMapper.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Core.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Windsor.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EPPlus.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\JetBrains.Annotations.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\obj\Debug\MyCompanyName.AbpZeroTemplate.Application.csprojResolveAssemblyReference.cache
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\obj\Debug\MyCompanyName.AbpZeroTemplate.Application.dll
+C:\Users\lv\Desktop\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\obj\Debug\MyCompanyName.AbpZeroTemplate.Application.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Application.dll.config
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Application.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Application.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.AutoMapper.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Common.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Ldap.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\AutoMapper.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Facilities.Logging.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Windsor.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.SqlServer.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EPPlus.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\JetBrains.Annotations.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Newtonsoft.Json.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Collections.Immutable.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Linq.Dynamic.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\MyCompanyName.AbpZeroTemplate.Core.pdb
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.AutoMapper.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Common.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Abp.Zero.Ldap.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\AutoMapper.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Core.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Facilities.Logging.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Castle.Windsor.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EntityFramework.SqlServer.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\EPPlus.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\JetBrains.Annotations.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Newtonsoft.Json.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Collections.Immutable.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\obj\Debug\MyCompanyName.AbpZeroTemplate.Application.csprojResolveAssemblyReference.cache
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\obj\Debug\MyCompanyName.AbpZeroTemplate.Application.dll
+D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Application\obj\Debug\MyCompanyName.AbpZeroTemplate.Application.pdb
