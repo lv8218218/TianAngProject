@@ -136,6 +136,5 @@ D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Core\bin\Debug\Nito.As
 D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Core\bin\Debug\Nito.AsyncEx.Enlightenment.xml
 D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Core\bin\Debug\System.Collections.Immutable.xml
 D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Core\bin\Debug\System.Linq.Dynamic.Core.xml
-D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Core\obj\Debug\MyCompanyName.AbpZeroTemplate.Core.csprojResolveAssemblyReference.cache
 D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Core\obj\Debug\MyCompanyName.AbpZeroTemplate.Core.dll
 D:\My GitHub\TianAngProject\MyCompanyName.AbpZeroTemplate.Core\obj\Debug\MyCompanyName.AbpZeroTemplate.Core.pdb

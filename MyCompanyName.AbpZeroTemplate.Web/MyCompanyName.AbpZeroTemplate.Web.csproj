@@ -2275,6 +2275,7 @@
     <Content Include="Areas\TaSystemSetting\Views\Shared\_ModalForm.cshtml" />
     <Content Include="Areas\TaSystemSetting\Views\PhotoCategory\Create.cshtml" />
     <Content Include="Areas\TaSystemSetting\Views\PhotoCategory\Edit.cshtml" />
+    <Content Include="Areas\TaTeachingSetting\Views\web.config" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -3066,6 +3067,7 @@
   <ItemGroup>
     <Compile Include="Areas\TaSystemSetting\Controllers\PhotoCategoryController.cs" />
     <Compile Include="Areas\TaSystemSetting\TaSystemSettingAreaRegistration.cs" />
+    <Compile Include="Areas\TaTeachingSetting\TaTeachingSettingAreaRegistration.cs" />
     <Compile Include="Helpers\IPagedList.cs" />
     <Compile Include="Helpers\OperationResult.cs" />
     <Compile Include="Helpers\OperationResultType.cs" />
@@ -3398,6 +3400,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\TaSystemSetting\Models\" />
+    <Folder Include="Areas\TaTeachingSetting\Controllers\" />
+    <Folder Include="Areas\TaTeachingSetting\Models\" />
+    <Folder Include="Areas\TaTeachingSetting\Views\Shared\" />
     <Folder Include="libs\jquery-jtable\dev\" />
     <Folder Include="libs\jquery-jtable\lib\" />
   </ItemGroup>

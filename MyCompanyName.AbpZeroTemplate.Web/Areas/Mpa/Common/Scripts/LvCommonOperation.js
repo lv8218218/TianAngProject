@@ -242,7 +242,7 @@ function GetBootstrapTableRowId(table, theIdName) {
 }
 
 //表格行单选删除
-function SingleDelete(table, actionUrl, tableIdName) {
+function SingleDeleteBackup(table, actionUrl, tableIdName) {
     var arrselections = $(table).bootstrapTable('getSelections');
     if (arrselections.length <= 0) {
         toastr.warning('请选择有效数据');
@@ -259,6 +259,42 @@ function SingleDelete(table, actionUrl, tableIdName) {
         }
         $.ajax({
             type: "post",
+            url: actionUrl,
+            data: { id: theTableId },
+            success: function (result) {
+                if (result.result.resultType === 0) {
+                    toastr.success(result.result.message);
+                    $(table).bootstrapTable('refresh');
+                }
+                else {
+                    toastr.error(result.result.message);
+                }
+            },
+            error: function () {
+                toastr.error('网络错误，请重新提交！');
+            }
+        });
+    });
+}
+
+//表格行单选删除
+function SingleDelete(table, actionUrl, tableIdName) {
+    var arrselections = $(table).bootstrapTable('getSelections');
+    if (arrselections.length <= 0) {
+        toastr.warning('请选择有效数据');
+        return;
+    }
+    WinMsg.confirm({ message: "确认要删除选择的数据吗？" }).on(function (e) {
+        if (!e) {
+            return;
+        }
+        var theTableId = GetBootstrapTableRowId(table, tableIdName);
+        if (theTableId === "notFound") {
+            toastr.warning('请选择有效数据');
+            return;
+        }
+        $.ajax({
+            type: "get",
             url: actionUrl,
             data: { id: theTableId },
             success: function (result) {

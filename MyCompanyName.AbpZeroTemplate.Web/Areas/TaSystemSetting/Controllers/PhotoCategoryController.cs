@@ -50,7 +50,7 @@ namespace MyCompanyName.AbpZeroTemplate.Web.Areas.TaSystemSetting.Controllers
             }
             catch (Exception e)
             {
-                theOperationResult = new OperationResult(OperationResultType.Error, "保存数据失败！") {Message = e.Message};
+                theOperationResult = new OperationResult(OperationResultType.Error, "保存数据失败！") { Message = e.Message };
             }
             return Json(theOperationResult);
         }
@@ -80,25 +80,25 @@ namespace MyCompanyName.AbpZeroTemplate.Web.Areas.TaSystemSetting.Controllers
             }
             catch (Exception e)
             {
-                theOperationResult = new OperationResult(OperationResultType.Error, "更新驾驶员数据失败!") {Message = e.Message};
+                theOperationResult = new OperationResult(OperationResultType.Error, "更新驾驶员数据失败!") { Message = e.Message };
             }
             return Json(theOperationResult);
         }
 
-        [HttpPost]
-        public ActionResult Delete(long id)
+
+        public async Task<JsonResult> Delete(long id)
         {
             OperationResult theOperationResult;
             try
             {
-                _photoCategoryAppService.DeletePhotoCategory(id);
+                await _photoCategoryAppService.DeletePhotoCategory(id);
                 theOperationResult = new OperationResult(OperationResultType.Success, "删除数据成功！");
             }
             catch (Exception e)
             {
-                theOperationResult = new OperationResult(OperationResultType.Error, "删除数据失败!") {Message = e.Message};
+                theOperationResult = new OperationResult(OperationResultType.Error, "删除数据失败!") { Message = e.Message };
             }
-            return Json(theOperationResult);
+            return Json(theOperationResult, JsonRequestBehavior.AllowGet);
         }
 
 
@@ -113,7 +113,7 @@ namespace MyCompanyName.AbpZeroTemplate.Web.Areas.TaSystemSetting.Controllers
                 return null;
             }
             var items =
-                await _photoCategoryAppService.GetPhotoCategories(new GetPhotoCategoryInput {Name = term.Trim()});
+                await _photoCategoryAppService.GetPhotoCategories(new GetPhotoCategoryInput { Name = term.Trim() });
             var findModel = items.Take(top)
                 .Select(r => new
                 {
@@ -131,7 +131,7 @@ namespace MyCompanyName.AbpZeroTemplate.Web.Areas.TaSystemSetting.Controllers
             string photoCategoryName)
         {
             var thePhotoCagegoryTableData = await
-                _photoCategoryAppService.GetPhotoCategories(new GetPhotoCategoryInput {Name = photoCategoryName});
+                _photoCategoryAppService.GetPhotoCategories(new GetPhotoCategoryInput { Name = photoCategoryName });
 
             List<PhotoCategoryListDto> thePhotoCagegoryTableDtoPageList = thePhotoCagegoryTableData.ToPagedList(
                 pageNumber, pageSize);
