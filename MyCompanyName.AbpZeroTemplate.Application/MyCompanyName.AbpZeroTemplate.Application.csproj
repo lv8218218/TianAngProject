@@ -302,6 +302,11 @@
     <Compile Include="TaSystemSetting\PhotoCategory\Dto\PhotoCategoryListDto.cs" />
     <Compile Include="TaSystemSetting\PhotoCategory\IPhotoCategoryAppService.cs" />
     <Compile Include="TaSystemSetting\PhotoCategory\PhotoCategoryAppService.cs" />
+    <Compile Include="TaSystemSetting\Photo\Dto\GetPhotoInput.cs" />
+    <Compile Include="TaSystemSetting\Photo\Dto\PhotoDto.cs" />
+    <Compile Include="TaSystemSetting\Photo\Dto\PhotoListDto.cs" />
+    <Compile Include="TaSystemSetting\Photo\IPhotoAppService.cs" />
+    <Compile Include="TaSystemSetting\Photo\PhotoAppService.cs" />
     <Compile Include="Tenants\Dashboard\Dto\GetMemberActivityOutput.cs" />
     <Compile Include="Tenants\Dashboard\ITenantDashboardAppService.cs" />
     <Compile Include="Tenants\Dashboard\TenantDashboardAppService.cs" />

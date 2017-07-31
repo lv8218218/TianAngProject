@@ -203,6 +203,7 @@
     <Compile Include="Storage\IBinaryObjectManager.cs" />
     <Compile Include="Storage\BinaryObject.cs" />
     <Compile Include="TaSystemSetting\PhotoCategory\PhotoCategory.cs" />
+    <Compile Include="TaSystemSetting\Photo\Photo.cs" />
     <Compile Include="Timing\ITimeZoneService.cs" />
     <Compile Include="Timing\TimeZoneService.cs" />
     <Compile Include="Validation\ValidationHelper.cs" />

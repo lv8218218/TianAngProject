@@ -46,6 +46,15 @@ namespace MyCompanyName.AbpZeroTemplate.TaSystemSetting.PhotoCategory
             return photoCategoryList;
         }
 
+        public List<PhotoCategoryListDto> GetPhotoCategories()
+        {
+            var photoCategories = _photoCategoryRepository.GetAll();            
+            photoCategories = photoCategories.OrderByDescending(c => c.LastModificationTime);
+            var list = photoCategories.ToList ();
+            var photoCategoryList = list.MapTo<List<PhotoCategoryListDto>>();
+            return photoCategoryList;
+        }
+
         public async Task<PhotoCategoryDto> GetPhotoCategory(long id)
         {
             var photoCategory = await _photoCategoryRepository.GetAsync(id);

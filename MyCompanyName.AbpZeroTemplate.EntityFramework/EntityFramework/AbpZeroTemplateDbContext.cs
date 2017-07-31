@@ -8,6 +8,7 @@ using MyCompanyName.AbpZeroTemplate.Friendships;
 using MyCompanyName.AbpZeroTemplate.MultiTenancy;
 using MyCompanyName.AbpZeroTemplate.Storage;
 using MyCompanyName.AbpZeroTemplate.TaSystemSetting.PhotoCategory;
+using MyCompanyName.AbpZeroTemplate.TaSystemSetting.Photo;
 
 namespace MyCompanyName.AbpZeroTemplate.EntityFramework
 {
@@ -31,6 +32,8 @@ namespace MyCompanyName.AbpZeroTemplate.EntityFramework
 
         //Lv
         public virtual IDbSet<PhotoCategory> PhotoCategories { get; set; }
+        //Lrf
+        public virtual IDbSet<Photo> Photos { get; set; }
 
         public AbpZeroTemplateDbContext()
             : base("Default")

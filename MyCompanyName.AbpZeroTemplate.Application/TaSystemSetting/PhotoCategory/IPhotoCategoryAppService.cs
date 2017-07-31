@@ -16,5 +16,7 @@ namespace MyCompanyName.AbpZeroTemplate.TaSystemSetting.PhotoCategory
         Task DeletePhotoCategory(long id);
 
         Task<PhotoCategoryDto> GetPhotoCategory(long id);
+
+        List<PhotoCategoryListDto> GetPhotoCategories();
     }
 }

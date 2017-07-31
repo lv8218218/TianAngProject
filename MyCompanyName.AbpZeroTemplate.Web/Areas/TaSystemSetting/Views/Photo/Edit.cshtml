@@ -1,0 +1,418 @@
+﻿@model MyCompanyName.AbpZeroTemplate.TaSystemSetting.Photo.Dto.PhotoDto
+@{
+    List<SelectListItem> photoCategoryList = ViewBag.PhotoCategoryList;
+    List<string> allUrl = ViewBag.PhotoCagegoryDtoUrl;
+}
+@{
+    ViewBag.Title = "照片编辑";
+    Layout = "~/Areas/TaSystemSetting/Views/Shared/_Layout.cshtml";
+}
+@section CustomerCss{
+    <link href="~/Areas/Mpa/Common/Content/jquery-ui.css" rel="stylesheet" />
+    <link href="~/Areas/Mpa/Common/Content/blueimp-gallery.css" rel="stylesheet" />
+    <link href="~/Areas/Mpa/Common/Content/blueimp-gallery-video.css" rel="stylesheet" />
+    <link href="~/Areas/Mpa/Common/Content/blueimp-gallery-indicator.css" rel="stylesheet" />
+    <link href="~/Areas/Mpa/Common/Content/basic.css" rel="stylesheet" />
+    <link href="~/Areas/Mpa/Common/Content/dropzone.css" rel="stylesheet" />
+    <style type="text/css">
+        .ui-autocomplete {
+            z-index: 99999;
+        }
+    </style>
+}
+@using (Html.BeginForm(Html.BeginForm("Edit", "Photo", FormMethod.Post, new { area = "Photo", name = "photoForm", id = "photoForm" })))
+{
+    @Html.AntiForgeryToken()
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="panel panel-success">
+                <div class="panel-heading">
+                    <h4>照片详细信息（*为必填项）</h4>
+                </div>
+                <div class="panel-body ">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @Html.HiddenFor(model=>model.Id)
+                    <label style="color: red; margin-left: -8px;">带*号的为必填项</label>
+                    <div class="form-horizontal">
+                        <h4>照片信息填写</h4>
+                        <hr />
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Url, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Url, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Url, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        @*<div class="form-group">
+                                @Html.LabelFor(model => model.PhotoCategoryId, htmlAttributes: new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.EditorFor(model => model.PhotoCategoryId, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.PhotoCategoryId, "", new { @class = "text-danger" })
+                                </div>
+                            </div>*@
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.PhotoCategoryId, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.DropDownList("PhotoCategoryId", photoCategoryList, "---请选择照片类型---", new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.PhotoCategoryId, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+
+@*@Html.Partial("~/Areas/TaSystemSetting/Views/Shared/_Upload.cshtml")*@
+<!-- 人员照片模态框（Modal） -->
+<div class="modal fade" id="PhotoModal" tabindex="-1" role="dialog" aria-labelledby="PhotoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close"
+                        data-dismiss="modal" aria-hidden="true">
+                    &times;
+                </button>
+                <h4 class="modal-title" id="PhotoModalLabel">
+                    人员照片
+                </h4>
+            </div>
+            <div class="modal-body">
+                <div class="well">
+                    @using (Html.BeginForm(Html.BeginForm("BatchUpload", "Photo", FormMethod.Post, new { area = "Photo", name = "mydropzone", id = "mydropzone" })))
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.Hidden("Id");
+                    }
+                    <!--上传图片时，需要同时提交的数据，这里做个演示-->
+                    @*<form action="/Photo/BatchUpload" class="dropzone" enctype="multipart/form-data" id="mydropzone" method="post">
+
+
+                        </form>*@
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-primary" data-dismiss="modal"><i class="glyphicon glyphicon-remove-circle"></i>关闭</button>
+                <button type="submit" id="btnSubmitPicture" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-cloud-upload"></i> 上传</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="ibox float-e-margins">
+            <div class="ibox-title" style="font-size: 13px; font-weight: bolder">
+                人员照片
+                @Html.HiddenFor(model => model.Id)
+                @*@Html.AntiForgeryToken()*@
+            </div>
+            <div class="ibox-content">
+                <div>
+                    <div id="links">
+                        @for (var i = 0; i < allUrl.Count; i++)
+                        {
+                            var str1 = "/Image/Photo/" + allUrl[i];
+                            var str2 = "/Image/Photo/" + allUrl[i];
+                            <a href=@str1>
+                                <img src=@str2 id=@str2 style="margin: 3px; padding: 3px" />
+                            </a>
+                        }
+                    </div>
+                    <div>
+                        @for (var i = 0; i < allUrl.Count; i++)
+                        {
+                            var str2 = allUrl[i];
+                            
+                                <a id=@str2 align="center" style="display: inline-block; width: 300px;">
+                                    <i onclick="deletePhoto(this)" id=@str2 style="font-style: normal; margin: 3px; padding: 3px;">删除照片</i>
+
+                                </a>
+                            
+                        }
+                    </div>
+                </div>
+
+                <div id="blueimp-gallery" class="blueimp-gallery" data-start-slideshow="true" data-filter=":even">
+                    <div class="slides"></div>
+                    <h3 class="title"></h3>
+                    <a class="prev">‹</a>
+                    <a class="next">›</a>
+                    <a class="close">×</a>
+                    <a class="play-pause"></a>
+                    <ol class="indicator"></ol>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="well">
+    <div id="toolbar">
+        <div class="ibox-content">
+            <button id="btnBack" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-arrow-left"></i> 返回</button>
+            <button id="btnEditSave" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-ok"></i> 保存</button>
+            <button id="btnUpload" class="btn btn-sm btn-primary" data-toggle="modal" data-target="#PhotoModal">
+                <i class="glyphicon glyphicon-camera"></i> 添加人员照片
+            </button>
+        </div>
+    </div>
+</div>
+@section CustomerJs{
+    <script src="~/Areas/Mpa/Common/Scripts/jquery.blueimp-gallery.min.js"></script>
+    <script src="~/Areas/Mpa/Common/Scripts/respond.js"></script>
+    <script src="~/Areas/Mpa/Common/Scripts/moment.js"></script>
+    <script src="~/Areas/Mpa/Common/Scripts/dropzone.js"></script>
+    <script>
+        var fileFillPath = new Array();
+        var allFilePath = new Array();
+        $(function () {
+            //$("#mydropzone").css("color", "red");
+            $("#mydropzone").addClass("dropzone");
+            $("#Url").attr("disabled", true).css("color","white");
+            $("img").css("width", "300px");
+        })
+        //新增保存
+        $("#btnEditSave")
+            .click(function () {
+                //防止设备下拉列表出现---请选择---
+                if ($("#PhotoCategoryId").val() === "0") {
+                    toastr.error("请选择照片类型！");
+                    return;
+                }
+                //表单前端验证
+                var $form = $("#photoForm");
+                if (!$form.valid()) {
+                    return;
+                }
+                $.ajax({
+                    type: "post",
+                    url: '@Url.Action("Edit", "Photo")',
+                    contentType: "application/json",
+                    dataType: "json",
+                    async: false,
+                    caChe:false,
+                    //data: $form.serialize(),
+                    data: JSON.stringify(
+                        {
+                            "input":
+                            {
+                                "Id":$("#Id").val(),
+                                "Name": $("#Name").val(),
+                                "Description": $("#Description").val(),
+                                "Url": $("#Url").val(),
+                                "PhotoCategoryId": $("#PhotoCategoryId").val()
+                            }
+                        }
+                    ),
+                    success: function (result) {
+                        if (result.ResultType === 0) {
+                            toastr.success("编辑照片成功");
+                            //回到主页
+                            var goBackUrl = "Index";
+                            window.location = goBackUrl;
+                        } else {
+                            toastr.error("添加照片失败");
+                        }
+                    }
+                });
+            });
+        //返回按钮
+        $("#btnBack")
+            .click(function () {
+                var goBackUrl = "Index";
+                window.location = goBackUrl;
+            });
+
+
+
+        $(function () {
+            //Dropzone.autoDiscover = true;
+        })
+
+        Dropzone.options.mydropzone = {
+            //指定上传图片的路径
+            @*url: '@Url.Action("BatchUpload","Photo")',*@
+            //添加上传取消和删除预览图片的链接，默认不添加
+            addRemoveLinks: true,
+            //关闭自动上传功能，默认会true会自动上传
+            //也就是添加一张图片向服务器发送一次请求
+            //autoProcessQueue: false,
+            autoProcessQueue: false,
+            //允许上传多个照片
+            uploadMultiple: true,
+            //每次上传的最多文件数，经测试默认为2，坑啊
+            //记得修改web.config 限制上传文件大小的节
+            //一次性上传的文件数量上限
+            maxFiles: 10,
+            //MB
+            maxFilesize: 20,
+            //上传的类型
+            acceptedFiles: ".jpg,.gif,.png",
+            parallelUploads: 100,
+            //没有任何文件被添加的时候的提示文本。
+            dictDefaultMessage: "请选择上传人员照片",
+            //文件类型被拒绝时的提示文本。
+            dictInvalidInputType: "文件格式不正确",
+            //文件大小过大时的提示文本。
+            dictFileTooBig: "图片大小超过限制",
+            //取消上传链接的文本。
+            dictCancelUpload: "取消上传",
+            //取消上传确认信息的文本。
+            dictCancelUploadConfirmation: "已取消",
+            //移除文件链接的文本。
+            dictRemoveFile: "删除图片",
+            //超过最大文件数量的提示文本。
+            dictMaxFilesExceeded: "上传图片数量超过限制",
+            init: function () {
+                var $submitButton = document.querySelector("#btnSubmitPicture");
+                myDropzone = this; // closure
+                //当添加图片后的事件，上传按钮恢复可用
+                this.on("addedfile",
+                    function () {
+                        $("#btnSubmitPicture").removeAttr("disabled")
+                    });
+                //删除图片的事件，当上传的图片为空时，使上传按钮不可用状态
+                this.on("removedfile",
+                    function (file) {
+                        if (this.getAcceptedFiles().length === 0) {
+                            $("#btnSubmitPicture").attr("disabled", true);
+                        }
+                        var newFile = file.name; //fileFillPath;
+                        for (var i = 0; i < fileFillPath.length; i++) {
+                            if (file.name === fileFillPath[i]) {
+                                var newFile = fileFillPath[i]; //fileFillPath;
+                            }
+                        }
+                        $.ajax({
+                            type: "get",
+                            url: '@Url.Action("RealDelete","Photo")',
+                            contentType: "application/json; charset=utf-8",
+                            dataType: "json",
+                            data: (
+                                {
+                                    "deleteFillName": newFile,
+                                    "flag": false,
+                                    "id": $("#Id").val()
+                                }
+                            ),
+                            success: function (result) {
+                                if (result.ResultType === 0) {
+                                    $("#links")
+                                        .find("img[id='" + file.name + "']")
+                                        .remove();
+                                    toastr.success(result.Message);
+                                } else {
+                                    toastr.error(result.Message);
+                                }
+                                //toastr.error("未知错误");
+                            }
+
+                        });
+                    });
+                //当上传完成后的事件，接受的数据为JSON格式
+                this.on("complete",
+                    function (data) {
+                        if (this.getUploadingFiles().length === 0 && this.getQueuedFiles().length === 0) {
+                            var res = eval('(' + data.xhr.responseText + ')');
+                            var msg;
+                            if (res.Result) {
+                                msg = "恭喜，已成功上传" + res.Count + "张照片！";
+                            } else {
+                                msg = "上传失败，失败的原因是：" + res.Message;
+                            }
+                            for (var i = 0; i < res.FilesPath.length; i++) {
+                                //<input class="form-control text-box single-line" id="Url" name="Url" type="text" value="" />
+
+                                $("#Url").val(res.FilesPath[res.FilesPath.length - 1]);
+                                $("#links")
+                                    .append('<a href="/Image/Photo/' +
+                                        res.FilesPath[i] +
+                                        '"><img src="/Image/Photo/' +
+                                        res.FilesPath[i] +
+                                        ' " width="300px" id="' +
+                                        res.FilesPath[i] +
+                                        '" style="margin:3px;padding:3px"></a>');
+                                fileFillPath[i] = res.FilesPath[i];
+                            }
+                            if (fileFillPath.length <= 0) {
+                                toastr.warning('您还没有添加图片');
+                                return;
+                            }
+                        }
+                    });
+                $submitButton.addEventListener("click", function () {
+
+                    myDropzone.processQueue(); // Tell Dropzone to process all queued files.
+                });
+            }
+        };
+
+
+        function deletePhoto(obj) {
+            var photo = obj.id;
+            $.ajax({
+                type: "post",
+                url: '@Url.Action("RealDelete", "Photo")',
+                contentType: "application/json",
+                dataType: "json",
+                data: JSON.stringify(
+                    {
+                        "deleteFillName": obj.id,
+                        "flag": false ,
+                        "id": $("#Id").val()
+                    }
+                ),
+                success: function (result) {
+                    if (result.ResultType === 0) {
+                        toastr.success("删除图片成功");
+                        //删除图片
+                        $("#links").find("img[id='/Image/Photo/" + photo + "']").remove();
+                        $("#Url").val("");
+                        //删除文字
+                        var my = document.getElementById(photo);
+                        if (my != null)
+                            my.parentNode.removeChild(my);
+                    } else {
+                        toastr.error("删除图片失败");
+                    }
+                }
+            });
+        };
+        //添加设备名称下拉列表内容项
+        $('#PhotoCategoryId').append($("<option></option>").val("@ViewBag.PhotoCattegoryId").html("@ViewBag.PhotoCattegoryName"));
+        //查看图片
+        $(function () {
+            document.getElementById('links').onclick = function (event) {
+                event = event || window.event;
+                var target = event.target || event.srcelement,
+                    link = target.src ? target.parentnode : target,
+                    options = { index: link, event: event },
+                    links = this.getelementsbytagname('a');
+                blueimp.gallery(links, options);
+            };
+        });
+    </script>
+
+}

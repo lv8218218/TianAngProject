@@ -1,0 +1,29 @@
+﻿<!-- 人员照片模态框（Modal） -->
+<div class="modal fade" id="PhotoModal" tabindex="-1" role="dialog" aria-labelledby="PhotoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close"
+                        data-dismiss="modal" aria-hidden="true">
+                    &times;
+                </button>
+                <h4 class="modal-title" id="PhotoModalLabel">
+                    人员照片
+                </h4>
+            </div>
+            <div class="modal-body">
+                <div class="well">
+                    <form action="/" class="dropzone" enctype="multipart/form-data" id="mydropzone" method="post">
+                        <!--上传图片时，需要同时提交的数据，这里做个演示-->
+                        @Html.Hidden("Id")
+                    </form>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-primary" data-dismiss="modal"><i class="glyphicon glyphicon-remove-circle"></i>关闭</button>
+                <button type="submit" id="btnSubmitPicture" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-cloud-upload"></i> 上传</button>
+            </div>
+        </div>
+    </div>
+</div>
+

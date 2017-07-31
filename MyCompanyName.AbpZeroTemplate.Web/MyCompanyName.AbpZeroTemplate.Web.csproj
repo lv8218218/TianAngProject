@@ -24,7 +24,7 @@
     <RestorePackages>true</RestorePackages>
     <UseGlobalApplicationHostFile />
     <TargetFrameworkProfile />
-    <TypeScriptToolsVersion>2.2</TypeScriptToolsVersion>
+    <TypeScriptToolsVersion>2.4</TypeScriptToolsVersion>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
   </PropertyGroup>
@@ -525,8 +525,25 @@
       <DependentUpon>index.css</DependentUpon>
     </Content>
     <Content Include="App\host\views\tenants\featuresModal.js" />
+    <Content Include="Areas\Mpa\Common\Content\basic.css" />
+    <Content Include="Areas\Mpa\Common\Content\blueimp-gallery-indicator.css" />
+    <Content Include="Areas\Mpa\Common\Content\blueimp-gallery-video.css" />
+    <Content Include="Areas\Mpa\Common\Content\blueimp-gallery.css" />
+    <Content Include="Areas\Mpa\Common\Content\blueimp-gallery.min.css" />
+    <Content Include="Areas\Mpa\Common\Content\dropzone.css" />
+    <Content Include="Areas\Mpa\Common\Content\dropzone.min.css" />
+    <Content Include="Areas\Mpa\Common\Content\jquery-ui.css" />
+    <Content Include="Areas\Mpa\Common\Scripts\dropzone-amd-module.js" />
+    <Content Include="Areas\Mpa\Common\Scripts\dropzone-and-module.min.js" />
+    <Content Include="Areas\Mpa\Common\Scripts\dropzone1.js" />
+    <Content Include="Areas\Mpa\Common\Scripts\dropzone.js" />
+    <Content Include="Areas\Mpa\Common\Scripts\dropzone.min.js" />
+    <Content Include="Areas\Mpa\Common\Scripts\jquery-ui.js" />
+    <Content Include="Areas\Mpa\Common\Scripts\jquery.blueimp-gallery.min.js" />
+    <Content Include="Areas\Mpa\Common\Scripts\moment.js" />
     <Content Include="Areas\Mpa\Common\Scripts\readme.txt" />
     <Content Include="Areas\Mpa\Common\Scripts\LvCommonOperation.js" />
+    <Content Include="Areas\Mpa\Common\Scripts\respond.js" />
     <Content Include="Areas\Mpa\Common\Scripts\WinMsg.js" />
     <Content Include="Common\Images\app-logo-small.png" />
     <Content Include="Common\Scripts\jquery-validation-custom.js" />
@@ -2276,9 +2293,20 @@
     <Content Include="Areas\TaSystemSetting\Views\PhotoCategory\Create.cshtml" />
     <Content Include="Areas\TaSystemSetting\Views\PhotoCategory\Edit.cshtml" />
     <Content Include="Areas\TaTeachingSetting\Views\web.config" />
+    <Content Include="Areas\TaSystemSetting\Views\Photo\Index.cshtml" />
+    <Content Include="Areas\TaSystemSetting\Views\Photo\Create.cshtml" />
+    <Content Include="Areas\TaSystemSetting\Views\Photo\Edit.cshtml" />
+    <Content Include="Areas\TaSystemSetting\Views\Photo\Upload.cshtml" />
+    <Content Include="Areas\TaSystemSetting\Views\Shared\_Upload.cshtml" />
+    <Content Include="Areas\TaStructureSetting\Views\web.config" />
+    <Content Include="Areas\TaSystemSetting\Views\Photo\Edit2.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <None Include="Scripts\LRFAdd\jquery-1.12.4.intellisense.js" />
+    <Content Include="Scripts\LRFAdd\HelpJS.js" />
+    <Content Include="Scripts\LRFAdd\jquery-1.12.4.js" />
+    <Content Include="Scripts\LRFAdd\jquery-1.12.4.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Views\Layout\_TenantCustomCss.cshtml" />
     <Content Include="libs\jquery-jtable\.npmignore" />
@@ -3065,7 +3093,9 @@
     <Content Include="Views\_ViewStart.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Areas\TaStructureSetting\TaStructureSettingAreaRegistration.cs" />
     <Compile Include="Areas\TaSystemSetting\Controllers\PhotoCategoryController.cs" />
+    <Compile Include="Areas\TaSystemSetting\Controllers\PhotoController.cs" />
     <Compile Include="Areas\TaSystemSetting\TaSystemSettingAreaRegistration.cs" />
     <Compile Include="Areas\TaTeachingSetting\TaTeachingSettingAreaRegistration.cs" />
     <Compile Include="Helpers\IPagedList.cs" />
@@ -3370,6 +3400,7 @@
     <Content Include="Scripts\version.json" />
     <Content Include="Views\Account\_AppLogo.cshtml" />
     <Content Include="Views\Account\_TenantCustomCss.cshtml" />
+    <Content Include="Scripts\LRFAdd\jquery-1.12.4.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -3399,10 +3430,14 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Areas\TaStructureSetting\Controllers\" />
+    <Folder Include="Areas\TaStructureSetting\Models\" />
+    <Folder Include="Areas\TaStructureSetting\Views\Shared\" />
     <Folder Include="Areas\TaSystemSetting\Models\" />
     <Folder Include="Areas\TaTeachingSetting\Controllers\" />
     <Folder Include="Areas\TaTeachingSetting\Models\" />
     <Folder Include="Areas\TaTeachingSetting\Views\Shared\" />
+    <Folder Include="Image\Photo\" />
     <Folder Include="libs\jquery-jtable\dev\" />
     <Folder Include="libs\jquery-jtable\lib\" />
   </ItemGroup>

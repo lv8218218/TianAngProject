@@ -52,7 +52,8 @@ namespace MyCompanyName.AbpZeroTemplate.Web
             Configuration.Navigation.Providers.Add<MpaNavigationProvider>();//MPA!
 
             Configuration.Modules.AbpWebCommon().MultiTenancy.DomainFormat = WebUrlService.WebSiteRootAddress;
-
+            //Lrf
+            Configuration.Modules.AbpWeb().AntiForgery.IsEnabled = false;
             //Uncomment these lines to use HangFire as background job manager.
             //Configuration.BackgroundJobs.UseHangfire(configuration =>
             //{

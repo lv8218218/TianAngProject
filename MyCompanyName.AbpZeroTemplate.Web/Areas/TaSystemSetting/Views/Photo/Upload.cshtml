@@ -1,0 +1,100 @@
+﻿@{
+    ViewBag.Title = "照片上传";
+    Layout = "~/Areas/TaSystemSetting/Views/Shared/_Layout.cshtml";
+}
+@section CustomerCss{
+    <link href="~/Areas/Mpa/Common/Content/basic.css" rel="stylesheet" />
+    <link href="~/Areas/Mpa/Common/Content/dropzone.css" rel="stylesheet" />
+}
+
+<form action="/" class="dropzone" enctype="multipart/form-data" id="mydropzone" method="post">
+    <!--上传图片时，需要同时提交的数据，这里做个演示-->
+    @Html.Hidden("Id")
+</form>
+<div style="margin-Top: 20px">
+    <button id="btnBackIndex" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-arrow-left"></i> 返回</button>
+    <button type="submit" id="submit-all" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-cloud-upload"></i> 上传</button>
+</div>
+@section CustomerJs{
+    <script src="~/Areas/Mpa/Common/Scripts/dropzone.js"></script>
+    <script>
+
+        //返回首页按钮
+        $(function () {
+            $("#btnBackIndex")
+                .click(function () {
+                    window.location = '@Url.Action("Create", new {area = "Photo"})';
+                });
+        });
+
+        Dropzone.options.mydropzone = {
+            //指定上传图片的路径
+            @*url: '@Url.Action("BatchUpload")',*@
+            //添加上传取消和删除预览图片的链接，默认不添加
+            addRemoveLinks: true,
+            //关闭自动上传功能，默认会true会自动上传
+            //也就是添加一张图片向服务器发送一次请求
+            autoProcessQueue: false,
+            //允许上传多个照片
+            uploadMultiple: true,
+            //每次上传的最多文件数，经测试默认为2，坑啊
+            //记得修改web.config 限制上传文件大小的节
+            parallelUploads: 100,
+            init: function () {
+                var submitButton = document.querySelector("#submit-all");
+                mydropzone = this; // closure
+                //为上传按钮添加点击事件
+                submitButton.addEventListener("click",
+                    function () {
+                        //手动上传所有图片
+                        var updateUrl = "BatchUpload";
+                        //手动上传所有图片
+                        $.ajax({
+                            type: "get",
+                            url: updateUrl, @*'@Url.Action("BatchUpload", "Photo")',*@
+                                contentType: "application/json",
+                        dataType: "json",
+                        data: JSON.stringify(
+                            {
+                                canDO: "ss"
+                                //"deleteFillName": newFile,
+                                //"flag": false
+                            }
+                        ),
+                        success: function (result) {
+                            if (ResultType === true) {
+                                //$("#links").find("img[id='" + file.name + "']").remove();result
+                                toastr.success("上传成功");
+                                //mydropzone.processQueue();
+                            } else {
+                                //toastr.error(result.Message);
+                                toastr.error("失败");
+                            }
+                        }
+                    });
+                    });
+
+                //当添加图片后的事件，上传按钮恢复可用
+                this.on("addedfile",
+                    function () {
+                        $("#submit-all").removeAttr("disabled");
+                    });
+                //当上传完成后的事件，接受的数据为JSON格式
+                this.on("complete",
+                    function (data) {
+                        if (this.getUploadingFiles().length === 0 && this.getQueuedFiles().length === 0) {
+                            var res = eval('(' + data.xhr.responseText + ')');
+                            var msg;
+                            if (res.Result) {
+                                msg = "上传成功" + res.Count + "张照片！";
+                            } else {
+                                msg = "上传失败，失败的原因是：" + res.Message;
+                            }
+                            $("#message").text(msg);
+                            $("#dialog").dialog("open");
+                        }
+                    });
+            }
+        };
+    </script>
+}

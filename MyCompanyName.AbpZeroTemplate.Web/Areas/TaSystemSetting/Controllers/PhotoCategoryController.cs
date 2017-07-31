@@ -70,17 +70,17 @@ namespace MyCompanyName.AbpZeroTemplate.Web.Areas.TaSystemSetting.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return Json(new OperationResult(OperationResultType.ParamError, "驾驶员参数错误，请重新检查输入"));
+                return Json(new OperationResult(OperationResultType.ParamError, "参数错误，请重新检查输入"));
             }
             OperationResult theOperationResult;
             try
             {
                 _photoCategoryAppService.UpdatePhotoCategory(input);
-                theOperationResult = new OperationResult(OperationResultType.Success, "更新驾驶员数据成功！");
+                theOperationResult = new OperationResult(OperationResultType.Success, "更新数据成功！");
             }
             catch (Exception e)
             {
-                theOperationResult = new OperationResult(OperationResultType.Error, "更新驾驶员数据失败!") { Message = e.Message };
+                theOperationResult = new OperationResult(OperationResultType.Error, "更新数据失败!") { Message = e.Message };
             }
             return Json(theOperationResult);
         }
