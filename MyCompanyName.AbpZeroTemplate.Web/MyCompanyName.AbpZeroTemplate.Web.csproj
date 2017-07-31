@@ -2300,6 +2300,12 @@
     <Content Include="Areas\TaSystemSetting\Views\Shared\_Upload.cshtml" />
     <Content Include="Areas\TaStructureSetting\Views\web.config" />
     <Content Include="Areas\TaSystemSetting\Views\Photo\Edit2.cshtml" />
+    <Content Include="Areas\TaTeachingSetting\Views\Topic\Create.cshtml" />
+    <Content Include="Areas\TaTeachingSetting\Views\Topic\Edit.cshtml" />
+    <Content Include="Areas\TaTeachingSetting\Views\Topic\Index.cshtml" />
+    <Content Include="Areas\TaTeachingSetting\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\TaTeachingSetting\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\TaTeachingSetting\Views\Shared\_ModalForm.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -3097,6 +3103,7 @@
     <Compile Include="Areas\TaSystemSetting\Controllers\PhotoCategoryController.cs" />
     <Compile Include="Areas\TaSystemSetting\Controllers\PhotoController.cs" />
     <Compile Include="Areas\TaSystemSetting\TaSystemSettingAreaRegistration.cs" />
+    <Compile Include="Areas\TaTeachingSetting\Controllers\TopicController.cs" />
     <Compile Include="Areas\TaTeachingSetting\TaTeachingSettingAreaRegistration.cs" />
     <Compile Include="Helpers\IPagedList.cs" />
     <Compile Include="Helpers\OperationResult.cs" />
@@ -3434,9 +3441,7 @@
     <Folder Include="Areas\TaStructureSetting\Models\" />
     <Folder Include="Areas\TaStructureSetting\Views\Shared\" />
     <Folder Include="Areas\TaSystemSetting\Models\" />
-    <Folder Include="Areas\TaTeachingSetting\Controllers\" />
     <Folder Include="Areas\TaTeachingSetting\Models\" />
-    <Folder Include="Areas\TaTeachingSetting\Views\Shared\" />
     <Folder Include="Image\Photo\" />
     <Folder Include="libs\jquery-jtable\dev\" />
     <Folder Include="libs\jquery-jtable\lib\" />

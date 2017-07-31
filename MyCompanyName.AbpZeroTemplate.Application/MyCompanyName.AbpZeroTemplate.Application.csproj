@@ -307,6 +307,11 @@
     <Compile Include="TaSystemSetting\Photo\Dto\PhotoListDto.cs" />
     <Compile Include="TaSystemSetting\Photo\IPhotoAppService.cs" />
     <Compile Include="TaSystemSetting\Photo\PhotoAppService.cs" />
+    <Compile Include="TaTeachingSetting\Topic\Dto\GetTopicInput.cs" />
+    <Compile Include="TaTeachingSetting\Topic\Dto\TopicDto.cs" />
+    <Compile Include="TaTeachingSetting\Topic\Dto\TopicListDto.cs" />
+    <Compile Include="TaTeachingSetting\Topic\ITopicAppService.cs" />
+    <Compile Include="TaTeachingSetting\Topic\TopicAppService.cs" />
     <Compile Include="Tenants\Dashboard\Dto\GetMemberActivityOutput.cs" />
     <Compile Include="Tenants\Dashboard\ITenantDashboardAppService.cs" />
     <Compile Include="Tenants\Dashboard\TenantDashboardAppService.cs" />
@@ -331,7 +336,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="TaStructureSetting\Class\" />
-    <Folder Include="TaTeachingSetting\Topic\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />

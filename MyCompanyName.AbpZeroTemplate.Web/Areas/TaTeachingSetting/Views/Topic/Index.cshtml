@@ -1,0 +1,170 @@
+﻿@{
+    ViewBag.Title = "专题管理";
+    Layout = "~/Areas/TaTeachingSetting/Views/Shared/_Layout.cshtml";
+}
+
+@section CustomerCss{
+<style type="text/css">
+    .ui-autocomplete {
+        z-index: 99999;
+    }
+</style>
+}
+
+<section id="TopicSection" class="content">
+    <div class="ibox float-e-margins">
+        <div class="ibox-title">查询条件</div>
+        <div class="ibox-content">
+            <div class="well" style="margin-bottom: 5px">
+                <div class="form-inline">
+                    <div class="form-group">
+                        <input id="txtTopicName" name="txtTopicName" type="text" class="form-control" placeholder="专题名称"/>
+                    </div>
+                    <div class="form-group">
+                        <span>  <button id="btnQuery" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-search"></i> 查询</button></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="well">
+                <div id="toolbar">
+                    <button id="btnCreate" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-plus"></i> 新增</button>
+                    <button id="btnEdit" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-edit"></i> 编辑</button>
+                    <button id="btnDelete" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-trash"></i> 删除</button>
+                </div>
+                <table id="table"></table>
+            </div>
+        </div>
+    </div>
+    @*新增、编辑使用的部分页*@
+    @Html.Partial("~/Areas/TaTeachingSetting/Views/Shared/_ModalForm.cshtml")
+</section>
+
+@section CustomerJs{
+    <script>
+        var $table = $('#table');
+        var $TopicSection = $("#TopicSection");
+        $(function () {
+            //得到表格查询的参数
+            var actionUrl = "GetTableData";
+            var tbColumns = [
+                {
+                    checkbox: true
+                }, {
+                    title: '序号',
+                    align: 'center',
+                    formatter: function (value, row, index) {
+                        return m_pagerow + index + 1;
+                    }
+                }, {
+                    align: 'center',
+                    field: 'Id',
+                    title: '专题编号',
+                    visible: false
+                }, {
+                    align: 'center',
+                    field: 'Name',
+                    title: '专题名称'
+                },
+                {
+                    align: 'center',
+                    field: 'Description',
+                    title: '专题描述'
+                },
+                {
+                    align: 'center',
+                    field: 'LastModificationTime',
+                    title: '修改时间',
+                    visible: false
+                }
+            ];
+            //初始化表格
+            /*函数参数说明：LvInitTable(表名, 列对象组, 数据访问方法, 查询参数, 详细信息, 访问类型,
+               toolbarName, uniqueIdName, sidePaginationType, pageSizeNumber, isCache, isSingleSelect,
+               isShowColumns, isShowRefresh, isClickToSelect, isDetailView)*/
+            LvInitTable($table, tbColumns, actionUrl, postQueryParams, detailFormatter, 'Get', '#toolbar', 'Id', 'server', 5, true, true, true, true, true, true);
+
+        });
+
+        //设置bootstrapTable查询参数
+        function postQueryParams(queryParams) {
+            queryParams.TopicName = $("#txtTopicName").val();
+            return queryParams;
+        }
+        //设置bootstrapTable列表详细信息显示格式
+        function detailFormatter(index, row) {
+            var html = [];
+            $.each(row,
+                function (key, value) {
+                    switch (key) {
+                        case "Id":
+                            key = "专题编号";
+                            break;
+                        case "Name":
+                            key = "专题名称";
+                            break;
+                        case "Description":
+                            key = "专题描述";
+                            break;
+                        case "LastModificationTime":
+                            key = "修改时间";
+                            break;
+                        case "0":
+                            key = "详细信息";
+                            value = "";
+                            break;
+                    }
+                    html.push("<p><b>" + key + ":</b> " + value + "</p>");
+                });
+            return html.join("");
+        };
+        //新增
+        $('#btnCreate', $TopicSection).click(function () {
+            var actionUrl = "Create";
+            var param = {};
+            ShowModal(actionUrl, param, "新增");
+        });
+        //编辑
+        $('#btnEdit', $TopicSection).click(function () {
+            var arrselections = $table.bootstrapTable('getSelections');
+            if (arrselections.length > 1) {
+                toastr.warning('只能选择一行进行编辑');
+                return;
+            }
+            if (arrselections.length <= 0) {
+                toastr.warning('请选择有效数据');
+                return;
+            }
+            var actionUrl = "Edit";
+            var param = { id: arrselections[0].Id };
+            ShowModal(actionUrl, param, "编辑");
+        });
+        //删除
+        $('#btnDelete', $TopicSection).click(function () {
+            var actionUrl = "Delete";
+            SingleDelete($table, actionUrl, "Id");
+        });
+        //查询
+        $('#btnQuery', $TopicSection).click(function () {
+            $table.bootstrapTable('refresh');
+        });
+        //模态框中保存
+        var $formmodal = $("#modal-form");
+        $('#btnCommonModelFormSave', $formmodal).click(function () {
+            SaveModal($table);
+        });
+
+        //名称自动补全
+        $(AutocompleteAlone("", "#txtTopicName", "AutoCompleteTopicName"));
+
+    </script>
+}
+
+
+
+
+
+
+
+
+

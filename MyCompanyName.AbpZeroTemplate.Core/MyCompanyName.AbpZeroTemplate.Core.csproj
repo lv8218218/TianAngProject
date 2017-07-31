@@ -204,6 +204,7 @@
     <Compile Include="Storage\BinaryObject.cs" />
     <Compile Include="TaSystemSetting\PhotoCategory\PhotoCategory.cs" />
     <Compile Include="TaSystemSetting\Photo\Photo.cs" />
+    <Compile Include="TaTeachingSetting\Topic\Topic.cs" />
     <Compile Include="Timing\ITimeZoneService.cs" />
     <Compile Include="Timing\TimeZoneService.cs" />
     <Compile Include="Validation\ValidationHelper.cs" />
@@ -239,7 +240,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="TaStructureSetting\Class\" />
-    <Folder Include="TaTeachingSetting\Topic\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
